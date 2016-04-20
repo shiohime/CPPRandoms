@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Library">
+      <UniqueIdentifier>{a990038d-f2b9-4e0f-a7f0-1f019c99aae9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Library">
+      <UniqueIdentifier>{a7d2356c-1843-4597-811e-7f34ec874eee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ReverseLL">
+      <UniqueIdentifier>{9019140d-2f2a-464a-b7f7-4ac206e45388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ReverseLL">
+      <UniqueIdentifier>{6b12454d-94bc-4e9d-b423-396cc8bf1743}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LongestIncreasingSeq">
+      <UniqueIdentifier>{adf4d503-0a1a-4cdf-b8b4-aa01835a8d97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LongestIncreasingSeq">
+      <UniqueIdentifier>{f2ae7ab4-35f2-4bce-a5d2-39cfcb60c831}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LeetCode">
+      <UniqueIdentifier>{50fbf022-b650-4c6a-9b53-2e89c0c07c67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LeetCode\LeetCode2">
+      <UniqueIdentifier>{b0c84a9f-cb4b-473f-9966-2898a43af9df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LeetCode\LeetCode3">
+      <UniqueIdentifier>{28c508c2-6834-415a-9f39-5de4f13a51c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LeetCode\LeetCode4">
+      <UniqueIdentifier>{8dbf1c7b-f91a-4acd-89e0-5eec06dc9316}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LeetCode\LeetCode5">
+      <UniqueIdentifier>{669e23dd-03ac-4e3f-bc49-9e403b9d01e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LeetCode">
+      <UniqueIdentifier>{999dc2bb-625b-42c8-a598-89b4a01f8f82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LeetCode\LeetCode2">
+      <UniqueIdentifier>{87149b1b-00bb-4774-bb51-500e325c5748}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LeetCode\LeetCode3">
+      <UniqueIdentifier>{d2b9dfa6-d71b-4fa8-a588-bc16fcde639a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LeetCode\LeetCode4">
+      <UniqueIdentifier>{b426488a-e299-4d69-be07-967e86b071c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LeetCode\LeetCode5">
+      <UniqueIdentifier>{fdba609d-784e-455a-bd87-355e3392d1b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Book">
+      <UniqueIdentifier>{e35c4f1d-ab4a-4dd1-969a-2d0e6f165140}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Book\StringsAndArrays">
+      <UniqueIdentifier>{55dce35d-2f8a-4bbd-bc75-6fc80d1f9f03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Book">
+      <UniqueIdentifier>{d7afd66a-c613-4738-b665-9055d1fe1276}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Book\StringsAndArrays">
+      <UniqueIdentifier>{e66a1c85-8660-4601-b3a2-1846c8d63fc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LeetCode\LeetCode301">
+      <UniqueIdentifier>{79f9680c-56a0-4409-9be3-1d5f2f913683}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LeetCode\LeetCode301">
+      <UniqueIdentifier>{27c5f18f-bdef-4d38-b487-6d95f1b578e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LeetCode\LeetCode207">
+      <UniqueIdentifier>{b57486cf-8795-4f8b-91e4-96cfc1b61e07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LeetCode\LeetCode207">
+      <UniqueIdentifier>{2db7912f-d82d-4062-85a7-332ef00e604a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\AVLTree">
+      <UniqueIdentifier>{fcdd76f0-0d89-40ac-9b52-c41930e5c466}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AVLTree">
+      <UniqueIdentifier>{bf9ea241-a96d-4f23-94ee-3087269b1fed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringTesting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CrossingPaths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IncreasingTriplet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTwoNumbers.h">
+      <Filter>Header Files\LeetCode\LeetCode2</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode3.h">
+      <Filter>Header Files\LeetCode\LeetCode3</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode4.h">
+      <Filter>Header Files\LeetCode\LeetCode4</Filter>
+    </ClInclude>
+    <ClInclude Include="LibPrint.h">
+      <Filter>Header Files\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseLL.h">
+      <Filter>Header Files\ReverseLL</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode5.h">
+      <Filter>Header Files\LeetCode\LeetCode5</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestSequence.h">
+      <Filter>Header Files\LongestIncreasingSeq</Filter>
+    </ClInclude>
+    <ClInclude Include="StringsAndArrays.h">
+      <Filter>Header Files\Book\StringsAndArrays</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode301.h">
+      <Filter>Header Files\LeetCode\LeetCode301</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode207.h">
+      <Filter>Header Files\LeetCode\LeetCode207</Filter>
+    </ClInclude>
+    <ClInclude Include="AVLTree.h">
+      <Filter>Header Files\AVLTree</Filter>
+    </ClInclude>
+    <ClInclude Include="AVLNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPPRandoms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StringTesting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CrossingPaths.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IncreasingTriplets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoSum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddTwoNumbers.cpp">
+      <Filter>Source Files\LeetCode\LeetCode2</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode3.cpp">
+      <Filter>Source Files\LeetCode\LeetCode3</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode4.cpp">
+      <Filter>Source Files\LeetCode\LeetCode4</Filter>
+    </ClCompile>
+    <ClCompile Include="LibPrint.cpp">
+      <Filter>Source Files\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseLL.cpp">
+      <Filter>Source Files\ReverseLL</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode5.cpp">
+      <Filter>Source Files\LeetCode\LeetCode5</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestSequence.cpp">
+      <Filter>Source Files\LongestIncreasingSeq</Filter>
+    </ClCompile>
+    <ClCompile Include="StringsAndArrays.cpp">
+      <Filter>Source Files\Book\StringsAndArrays</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode301.cpp">
+      <Filter>Source Files\LeetCode\LeetCode301</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode207.cpp">
+      <Filter>Source Files\LeetCode\LeetCode207</Filter>
+    </ClCompile>
+    <ClCompile Include="AVLTree.cpp">
+      <Filter>Source Files\AVLTree</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
